@@ -12,34 +12,34 @@ int main() {
 	std::string output = word;
 	
 	//long long int count[1000000000000000000];
-	long long int maxCount = 10000000000000000000;
+	//long long int maxCount = 10000000000000000000;
 //	for (int i = 0; i < 101; i++) {
 //		count[i] = 0;
 	//}
 	std::cout << "Don't worry, your RAM won't be filled, but your hard disk might, depending on how long you run this :)\n NOTE: It seems that the write speed is only limited by the maximum write speed of your hard disk." << std::endl;
 	system("pause");
 
-	while (true) {
-		while (true) {
-			while (true) {
-				while (true) {
-					while (true) {
-						while (true) {
-							while (true) {
-								while (true) {
+	//while (true) {
+		//while (true) {
+			//while (true) {
+				//while (true) {
+					//while (true) {
+						//while (true) {
+							//while (true) {
+								//while (true) {
                   while (true) {
                   dataout << output;
                   }
-                }
-						  }
-            }
-				  }
-			  }
-		  }
-	  }
-  }
+                //}
+						  //}
+           // }
+				 // }
+			 // }
+		//  }
+	//  }
+//  }
 	
-	dataout.close();
-	system("pause");
+	//dataout.close();
+	//system("pause");//lol
 	return 0;
 }
